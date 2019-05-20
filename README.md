@@ -4,7 +4,7 @@
 
 ## Table of Contents
 - [Grammar](#grammar)
-- [Algorithm](#algorithm)
+- [Data Structures and Algorithms](#data-structures-and-algorithms)
 - [Game Development](#game-development)
 - [Hardware](#hardware)
 - [Machine Learning](#machine-learning)
@@ -32,6 +32,7 @@
 - *Beginning Python: from Novice to Professional* by Magnus Lie Hetland [English 2nd Edition](http://www.amazon.com/Beginning-Python-Professional-Experts-Professionals/dp/1590599829)
 - *Think Python: How to Think Like a Computer Scientist* by Allen B. Downey [English 2nd Edition](http://www.amazon.com/Think-Python-Like-Computer-Scientist/dp/1491939362)
 - *Learning Python* by Mark Lutz [English 5th Edition](http://www.amazon.com/Learning-Python-Edition-Mark-Lutz/dp/1449355730)
+- *Programming Python* by Mark Lutz [English 4th Edition](http://www.amazon.com/gp/product/0596158106)
 - *Core Python Programming* by Wesley Chun [English 2nd Edition](http://www.amazon.com/Core-Python-Programming-Wesley-Chun/dp/0132269937)
 - *Python Crash Course* by Eric Matthes [English Edition](https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593276036/)
 
@@ -40,9 +41,8 @@
 - *The Hacker's Guide to Python* by Julien Danjou [English Edition](http://www.amazon.com/Hackers-Guide-Python-Julien-Danjou/dp/1304819248)
 - *Python in Practice: Create Better Programs Using Concurrency, Libraries, and Patterns* by Mark Summerfield [English Edition](http://www.amazon.com/Python-Practice-Concurrency-Libraries-Developers/dp/0321905636)
 - *Expert Python Programming: Best practices for designing, coding, and distributing your Python software* by Tarek Ziadé [English Edition](http://www.amazon.com/Expert-Python-Programming-practices-distributing/dp/184719494X)
-- *Programming Python* by Mark Lutz [English 4th Edition](http://www.amazon.com/gp/product/0596158106)
 - *Core Python Applications Programming* by Wesley Chun [English 3rd Edition](http://www.amazon.com/Core-Python-Applications-Programming-3rd/dp/0132678209)
-- *Intermediate Python* [English Edition](http://book.pythontips.com/en/latest/)
+- *Intermediate Python* [Online](http://book.pythontips.com/en/latest/)
 - *Effective Python: 59 Specific Ways to Write Better Python* [English Edition](https://www.amazon.com/Effective-Python-Specific-Software-Development/dp/0134034287)
 - *Fluent Python* by Luciano Ramalho [English Edition](http://www.amazon.com/Fluent-Python-Luciano-Ramalho/dp/1491946008)
 - *Learning Python Design Patterns* by Chetan Giridhar [English 2nd Edition](http://www.amazon.com/Learning-Python-Design-Patterns-Second/dp/178588803X)
@@ -59,7 +59,9 @@
 - *Python Essential Reference* by David M. Beazley [English 4th Edition](http://www.amazon.com/Python-Essential-Reference-4th-Edition/dp/0672329786)
 - *Python in a Nutshell* by Alex Martelli [English 2nd Edition](http://www.amazon.com/Python-Nutshell-Second-Edition-In/dp/0596100469)
 
-## Algorithm
+## Data Structures and Algorithms
+- *Data Structures and Algorithms in Python* by Michael T. Goodrich & Roberto Tamassia & Michael H. Goldwasser [English Edition](https://www.amazon.com/Structures-Algorithms-Goodrich-Goldwasser-Hardcover/dp/B011DC80VY/)
+- *Problem Solving with Algorithms and Data Structures Using Python* by Bradley N. Miller & David L. Ranum [English 2nd Edition](https://www.amazon.com/Problem-Solving-Algorithms-Structures-Python/dp/1590282574)
 - *Python Algorithms: Mastering Basic Algorithms in the Python Language* by Magnus Lie Hetland [English 2nd Edition](http://www.amazon.com/Python-Algorithms-Mastering-Basic-Language/dp/148420056X)
 
 ## Complexity Science
@@ -84,7 +86,6 @@
 
 ## Network
 - *Foundations of Python Network Programming* by Brandon Rhodes, John Goerzen [English 3rd Edition](https://www.amazon.com/Foundations-Python-Network-Programming-Brandon/dp/1430258543)
-- *Python Network Programming Cookbook* by Dr. M. O. Faruque Sarker [English Edition](http://www.amazon.com/Python-Network-Programming-Cookbook-Faruque/dp/1849513465)
 
 ## Science and Data Analysis
 - *Data Science From Scratch: First Principles with Python* by Joel Grus [English Edition](http://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X)
@@ -112,6 +113,7 @@
 - *Flask Web Development: Developing Web Applications with Python* by Miguel Grinberg [English Edition](http://www.amazon.com/Flask-Web-Development-Developing-Applications/dp/1449372627)
 - *Mastering Flask* by Jack Stouffer [English Edition](https://www.amazon.com/Mastering-Flask-Jack-Stouffer/dp/1784393657)
 - *Introduction to Tornado* by Michael Dory & Allison Parrish & Brendan Berg [English Edition](http://www.amazon.com/Introduction-Tornado-Michael-Dory/dp/1449309070)
+- *The Definitive Guide to Django* by Adrian Holovaty & Jacob Kaplan-Moss [English 2nd Edition](https://www.amazon.com/dp/143021936X/)
 - *Test-Driven Development with Django* by Kevin Harvey [English Edition](http://www.amazon.com/Test-Driven-Development-Django-Kevin-Harvey-ebook/dp/B00YSILNJW/)
 - *Test-Driven Development with Python* by Harry J. W. Percival [English Edition](http://www.amazon.com/Test-Driven-Development-Python-Harry-Percival/dp/1449364829)
 
